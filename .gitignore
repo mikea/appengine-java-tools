@@ -1,7 +1,6 @@
 .gradle
 *.class
 build/
-*.iml
 
 # Package Files #
 *.jar
