@@ -16,5 +16,5 @@ dependencies {
 
     compile "org.scala-lang:scala-library:$scalaVersion"
     compile "org.scala-lang:scala-reflect:$scalaVersion"
-    compile "com.jsuereth:scala-arm_$scalaBinaryVersion:1.3"
+    compile "com.jsuereth:scala-arm_$scalaBinaryVersion:1.4"
 }
